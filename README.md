@@ -4,5 +4,4 @@ At the University of North Carolina Coastal Studies Institute, I have analyzed 1
 
 At the University of North Carolina Division of Speech and Hearing, I developed matlab code to run experiments in audiology.
 
-At the Ocean Biology Processing Group at NASA Goddard, I worked on satellite data processing, developing the C/C++ code to calibrate the raw satellite data and transform it into an image.
 
